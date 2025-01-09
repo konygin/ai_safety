@@ -21,7 +21,7 @@
 - 2024.03.14: [Sparse autoencoders find composed features in small toy models](https://www.lesswrong.com/posts/a5wwqza2cY3W7L9cj/sparse-autoencoders-find-composed-features-in-small-toy)
 - 2024.03.15: [Improving SAE's by Sqrt()-ing L1 & Removing Lowest Activating Features](https://www.lesswrong.com/posts/YiGs8qJ8aNBgwt2YN/improving-sae-s-by-sqrt-ing-l1-and-removing-lowest)
 - 2024.03.29: [SAE reconstruction errors are (empirically) pathological](https://www.lesswrong.com/posts/rZPiuFxESMxCDHe4B/sae-reconstruction-errors-are-empirically-pathological)
-- 2024.04.22: [Bereska Gavves - Mechanistic Interpretability for AI Safety A Review](https://arxiv.org/abs/2404.14082)
+- 2024.04.22: [Mechanistic Interpretability for AI Safety A Review](https://arxiv.org/abs/2404.14082)
 - 2024.05.21:
   - [Mapping the Mind of a Large Language Mode](https://www.anthropic.com/research/mapping-mind-language-model)
   - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
