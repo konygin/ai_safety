@@ -1,7 +1,7 @@
 # Mechanistic Interpretability
 
 - 2021: [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
-- 2022.09.14:[Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
+- 2022.09.14: [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
 - 2022.09.24:
   - [In-context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
   - [In-context Learning and Induction Heads](https://arxiv.org/abs/2209.11895)
@@ -12,7 +12,7 @@
 - 2023.05.24:
   - [Interpretability Dreams](https://www.anthropic.com/research/interpretability-dreams)
   - [Interpretability Dreams](https://transformer-circuits.pub/2023/interpretability-dreams/index.html)
-- 2023.09: [Sparse Autoencoders Find Highly Interpretable Model Directions](https://arxiv.org/pdf/2309.08600.pdf)
+- 2023.09: [Sparse Autoencoders Find Highly Interpretable Model Directions](https://arxiv.org/abs/2309.08600)
 - 2023.10.25: [Attention Lens: A Tool for Mechanistically Interpreting the Attention Head Information Retrieval Mechanism](https://arxiv.org/abs/2310.16270)
 - 2024.01.15: [Sparse Autoencoders Work on Attention Layer Outputs](https://www.lesswrong.com/posts/DtdzGwFh9dCfsekZZ/sparse-autoencoders-work-on-attention-layer-outputs)
 - 2024.02.01: [Open Source Sparse Autoencoders for all Residual Stream Layers of GPT2-Small](https://www.lesswrong.com/posts/f9EgfLSurAiqRJySD/open-source-sparse-autoencoders-for-all-residual-stream)
