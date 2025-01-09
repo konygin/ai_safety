@@ -1,0 +1,1 @@
+- [Bereska Gavves - Mechanistic Interpretability for AI Safety A Review 2024](https://arxiv.org/abs/2404.14082)
