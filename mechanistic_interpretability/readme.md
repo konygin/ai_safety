@@ -1,0 +1,39 @@
+# Mechanistic Interpretability
+
+- 2021: [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
+- 2022.09.14:[Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
+- 2022.09.24:
+  - [In-context Learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
+  - [In-context Learning and Induction Heads](https://arxiv.org/abs/2209.11895)
+- 2023.04.28:
+  - [Towards Automated Circuit Discovery for Mechanistic Interpretability](https://proceedings.neurips.cc/paper_files/paper/2023/hash/34e1dbe95d34d7ebaf99b9bcaeb5b2be-Abstract-Conference.html)
+  - [Towards Automated Circuit Discovery for Mechanistic Interpretability](https://arxiv.org/abs/2304.14997)
+- 2023.01.12: [Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)
+- 2023.05.24:
+  - [Interpretability Dreams](https://www.anthropic.com/research/interpretability-dreams)
+  - [Interpretability Dreams](https://transformer-circuits.pub/2023/interpretability-dreams/index.html)
+- 2023.09: [Sparse Autoencoders Find Highly Interpretable Model Directions](https://arxiv.org/pdf/2309.08600.pdf)
+- 2023.10.25: [Attention Lens: A Tool for Mechanistically Interpreting the Attention Head Information Retrieval Mechanism](https://arxiv.org/abs/2310.16270)
+- 2024.01.15: [Sparse Autoencoders Work on Attention Layer Outputs](https://www.lesswrong.com/posts/DtdzGwFh9dCfsekZZ/sparse-autoencoders-work-on-attention-layer-outputs)
+- 2024.02.01: [Open Source Sparse Autoencoders for all Residual Stream Layers of GPT2-Small](https://www.lesswrong.com/posts/f9EgfLSurAiqRJySD/open-source-sparse-autoencoders-for-all-residual-stream)
+- 2024.02.06: [Challenges in Mechanistically Interpreting Model Representations](https://arxiv.org/abs/2402.03855)
+- 2024.02.22: [Do sparse autoencoders find "true features"?](https://www.lesswrong.com/posts/QoR8noAB3Mp2KBA4B/do-sparse-autoencoders-find-true-features)
+- 2024.03.14: [Sparse autoencoders find composed features in small toy models](https://www.lesswrong.com/posts/a5wwqza2cY3W7L9cj/sparse-autoencoders-find-composed-features-in-small-toy)
+- 2024.03.15: [Improving SAE's by Sqrt()-ing L1 & Removing Lowest Activating Features](https://www.lesswrong.com/posts/YiGs8qJ8aNBgwt2YN/improving-sae-s-by-sqrt-ing-l1-and-removing-lowest)
+- 2024.03.29: [SAE reconstruction errors are (empirically) pathological](https://www.lesswrong.com/posts/rZPiuFxESMxCDHe4B/sae-reconstruction-errors-are-empirically-pathological)
+- 2024.04.22: [Mechanistic Interpretability for AI Safety A Review](https://arxiv.org/abs/2404.14082)
+- 2024.05.21:
+  - [Mapping the Mind of a Large Language Mode](https://www.anthropic.com/research/mapping-mind-language-model)
+  - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+- 2024.06.13: [The engineering challenges of scaling interpretability](https://www.anthropic.com/research/engineering-challenges-interpretability)
+- 2024.07.02: [A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models](https://arxiv.org/abs/2407.02646)
+- 2024.07.29: [Detecting and Understanding Vulnerabilities in Language Models via Mechanistic Interpretability](https://arxiv.org/abs/2407.19842)
+- 2024.10.10: [Bilinear MLPs enable weight-based mechanistic interpretability](https://arxiv.org/abs/2410.08417)
+- 2024.10.11: [Explaining AI through mechanistic interpretability](https://link.springer.com/article/10.1007/s13194-024-00614-4)
+- 2024.10.15: [Mechanistic Permutability: Match Features Across Layers](https://arxiv.org/abs/2410.07656)
+- 2024.10.17:
+  - [Using Dictionary Learning Features as Classifiers](https://www.anthropic.com/research/features-as-classifiers)
+  - [Using Dictionary Learning Features as Classifiers](https://transformer-circuits.pub/2024/features-as-classifiers/index.html)
+- 2024.10.24: [Probing Ranking LLMs: Mechanistic Interpretability in Information Retrieval](https://arxiv.org/abs/2410.18527)
+- 2024.10.25: [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering)
+- 2024.11.25: [Adaptive Circuit Behavior and Generalization in Mechanistic Interpretability](https://arxiv.org/abs/2411.16105)
