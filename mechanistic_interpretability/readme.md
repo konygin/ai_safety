@@ -1,5 +1,6 @@
 # Mechanistic Interpretability
 
+- 2020: [Interpreting GPT: The logit lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
 - 2021: [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 - 2022.09.14: [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
 - 2022.09.24:
@@ -30,6 +31,7 @@
 - 2024.07.29: [Detecting and Understanding Vulnerabilities in Language Models via Mechanistic Interpretability](https://arxiv.org/abs/2407.19842)
 - 2024.10.10: [Bilinear MLPs enable weight-based mechanistic interpretability](https://arxiv.org/abs/2410.08417)
 - 2024.10.11: [Explaining AI through mechanistic interpretability](https://link.springer.com/article/10.1007/s13194-024-00614-4)
+- 2024.10.12: [SAE features for refusal and sycophancy steering vectors](https://www.lesswrong.com/posts/k8bBx4HcTF9iyikma/sae-features-for-refusal-and-sycophancy-steering-vectors)
 - 2024.10.15: [Mechanistic Permutability: Match Features Across Layers](https://arxiv.org/abs/2410.07656)
 - 2024.10.17:
   - [Using Dictionary Learning Features as Classifiers](https://www.anthropic.com/research/features-as-classifiers)
